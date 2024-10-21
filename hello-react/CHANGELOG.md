@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/kxs399/release-please-monorepo-example/compare/hello-react@v0.3.0...hello-react@v0.3.1) (2024-10-21)
+
+
+### Bug Fixes
+
+* **react:** Update App.js ([796f6da](https://github.com/kxs399/release-please-monorepo-example/commit/796f6da8a6ef6ab0e4a57c106c59a6f94a43b9e0))
+
 ## [0.3.0](https://github.com/kxs399/release-please-monorepo-example/compare/hello-react-v0.2.0...hello-react@v0.3.0) (2024-10-21)
 
 
