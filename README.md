@@ -1,4 +1,4 @@
-# Release Please Monorepo Example TEST
+# Release Please Monorepo Example TEST1
 
 Welcome to the **Release Please Monorepo Example** repository! 
 This repository is designed to showcase the usage of **release-please** in a monorepo setup.
